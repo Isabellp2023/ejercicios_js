@@ -18,5 +18,8 @@ let m = 5
 let i = d*m ;
 console.log (i)
 
+// ejercicio corregido //
+
+
 
 
