@@ -5,13 +5,13 @@ Completa la función que tomando dos números como argumento devuelva el más al
 
     function sum (numberOne , numberTwo) {
         if (numberOne > numberTwo) {
-        return numberOne; 
+        console.log (numberOne); 
        } else {
-       return numberTwo;  
+       console.log (numberTwo) ;  
         }
         
        
        }
    
-       console.log(sum(6 ,8));
+     sum(6 ,8);
    
